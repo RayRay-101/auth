@@ -63,6 +63,7 @@ function Signup() {
                 </div>
                 <button type='submit' className='btn btn-success w-100 rounded-0'>
                     Register
+                    
                 </button>
             </form>
             <p>Already Have an Account</p>
